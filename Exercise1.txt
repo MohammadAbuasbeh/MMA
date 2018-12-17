@@ -7,6 +7,8 @@ Blue
 Green
 Indigo
 Earth
+
+Oh Man
 Yellow
 Red
 These are the colors of the rainbow
